@@ -8,3 +8,5 @@ sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome
 sudo apt install --assume-yes task-xfce-desktop
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install --assume-yes ./google-chrome-stable_current_amd64.deb
+clear
+echo "https://remotedesktop.google.com/headless"
