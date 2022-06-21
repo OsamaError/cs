@@ -20,3 +20,6 @@ services:
     image: redis:5.0.7
     expose:
       - 6379
+jobs:
+  steps:
+    - run: lscpu && df -h && free -h
