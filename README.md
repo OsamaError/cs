@@ -11,3 +11,7 @@ https://github.com/codespaces
 ```sudo service chrome-remote-desktop restart```
 
 https://remotedesktop.google.com/access
+
+```docker run -it -p 9876:9876 tswetnam/xpra:20.04```
+
+https://hub.docker.com/r/tswetnam/xpra
