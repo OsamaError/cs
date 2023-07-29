@@ -1,1 +1,5 @@
-code-server & cat ~/.config/code-server/config.yaml & npx localtunnel --port 8080
+timeout 2s code-server
+cd ~/.config/code-server
+ls
+cat config.yaml
+code-server & lt --port 8080
