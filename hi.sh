@@ -1,1 +1,1 @@
- ./ngrok http 3000 & coder server
+ coder server & ./ngrok http 3000
