@@ -10,7 +10,7 @@ ___
 https://github.com/codespaces
 
 ```
-wget https://raw.githubusercontent.com/OsamaError/cs/main/run.sh \
+wget "https://raw.githubusercontent.com/OsamaError/cs/main/run.sh" \
 chmod +x run.sh \
 ./run.sh
 ```
