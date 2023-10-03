@@ -16,6 +16,7 @@ chmod +x run.sh
 ```
 
 ```sudo service chrome-remote-desktop restart```
+
 ```sudo service pulseaudio-enable-autospawn restart```
 
 
